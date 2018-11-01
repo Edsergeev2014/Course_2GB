@@ -1,0 +1,13 @@
+/*------------------------------------*\
+    #GLOBAL STYLES
+\*------------------------------------*/
+body,
+html {
+  overflow-x: hidden;
+}
+* {
+  outline: none;
+}
+textarea {
+  resize: none;
+}
